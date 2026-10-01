@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+
+# Personal data: never commit (the app keeps these in ~/.playlist-transfer, outside the repo)
+.playlist-transfer*/
+settings.json
+*.db
+*.sqlite*
+imports/
+.env
+.env.*
+# Spotify / Exportify exports dropped into the folder
+*.zip
+*.csv
+my_spotify_data*/
+Spotify Account Data/
