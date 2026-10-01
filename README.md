@@ -1,5 +1,7 @@
 # Playlist Transfer
 
+Fully slop coded. Does the thing. 
+
 A local, self-hosted alternative to Soundiiz for **Spotify ⇄ Qobuz**. It finds which songs from your Spotify
 playlists and Liked Songs are missing on Qobuz, shows you the diff in your browser, and only adds what you approve.
 Nothing is ever added twice.
